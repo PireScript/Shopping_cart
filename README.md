@@ -134,4 +134,6 @@ Step 7: [Optional] Add extra features
 ## License
 
 [License](LICENSE.txt)
-# Shopping_cart
+
+## Credit 
+I would like to give credit to Udacity for providing the foundational knowledge and resources to create this project and write the accompanying README.md file. This project is part of the Udacity Nanodegree Program - Frontend Web Development Fundamentals. The program's comprehensive curriculum and hands-on projects have equipped me with the skills to build a Shopping card. I am grateful to Udacity for their valuable guidance and support throughout this learning journey.
